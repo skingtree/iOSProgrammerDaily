@@ -1,0 +1,12 @@
+GTAGS
+GPATH
+GRTAGS
+*.xcuserstate
+*.xcbkptlist
+
+buff-iOS-app/Pods/
+*.xcworkspace
+
+.DS_Store
+## User settings
+xcuserdata/
